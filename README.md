@@ -6,8 +6,8 @@ Este proyecto consiste en el diseño, desarrollo e implementación de una base d
 ## 2. Diagrama Relacional
 A continuación, se presentan las imágenes del diagrama relacional de la base de datos, donde se visualizan las tablas y sus relaciones clave.
 
-![Diagrama Relacional 1](ER_Diagrama/Los_Ambientales_Diagrama.jpg)
-![Diagrama Relacional 2](ER_Diagrama/los_ambientales(DBeaver_Diagrama))
+![Diagrama Relacional 1](ER_Diagrama\Los_Ambientales_Diagrama.jpg)
+![Diagrama Relacional 2](ER_Diagrama\los_ambientales(DBeaver_Diagrama).png)
 
 ## 3. Estructura de la Base de Datos
 La base de datos está compuesta por más de 10 tablas bien normalizadas, evitando relaciones muchos a muchos directas y asegurando consultas eficientes. Las tablas principales incluyen:
